@@ -1,3 +1,4 @@
+<!--
 ### Hi there 👋
 
 **wangle678/wangle678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangle678)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangle678&show_icons=true&count_private=true&hide=stars,prs,issues&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangle678&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
